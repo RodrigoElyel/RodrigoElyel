@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<td><a href="https://drive.google.com/file/d/1kOJ1aGzO92prhbH8iET2pOlBUa4C9Ycw/view?usp=sharing">Meu Currículo</a></td>
+
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoelyel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<a href="https://drive.google.com/file/d/1kOJ1aGzO92prhbH8iET2pOlBUa4C9Ycw/view?usp=sharing">Meu Currículo</a>
 
 ![](https://komarev.com/ghpvc/?username=rodrigoelyel&color=blue&style=flat)
 
