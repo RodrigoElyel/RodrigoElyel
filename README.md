@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<a href="https://drive.google.com/file/d/1kOJ1aGzO92prhbH8iET2pOlBUa4C9Ycw/view?usp=sharing">Meu Currículo</a>
+<a href="https://drive.google.com/file/d/1_4V1wKutgGSKYaI9J_mwDQ2R8pYLhsY1/view?usp=sharing">Meu Currículo</a>
 
 ![](https://komarev.com/ghpvc/?username=rodrigoelyel&color=blue&style=flat)
 
