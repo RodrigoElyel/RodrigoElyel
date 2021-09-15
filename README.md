@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <!--![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)-->
   <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)-->
   <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)-->
-  ![React-Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   <!--![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
