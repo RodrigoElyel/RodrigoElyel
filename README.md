@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<a href="https://drive.google.com/file/d/1_4V1wKutgGSKYaI9J_mwDQ2R8pYLhsY1/view?usp=sharing">Meu Currículo (Nele contém os link os vídeos do Projetos que fiz em React-Native)</a>
+<a href="https://drive.google.com/file/d/1_4V1wKutgGSKYaI9J_mwDQ2R8pYLhsY1/view?usp=sharing">Meu Currículo (Nele contém os links dos vídeos de Projetos que fiz em React-Native)</a>
 
 ![](https://komarev.com/ghpvc/?username=rodrigoelyel&color=blue&style=flat)
 
