@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 ## My Stats
 <p>
 <a href="https://github.com/rodrigoelyel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoelyel&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoelyel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoelyel&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoelyel&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
