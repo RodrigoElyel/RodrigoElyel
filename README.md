@@ -28,7 +28,8 @@
 <div align="center" style="display: inline_block"><br>
   <h2>Apaixonado em desenvolver para essas plataformas</h2>
   <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+  <img align="center"  height="35" width="40" src="https://www.svgrepo.com/show/379470/ios.svg" />
+   <!-- <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /> -->
 </div>
 
 <div align="center">
