@@ -34,9 +34,17 @@
    <!-- <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /> -->
 </div>
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1_4V1wKutgGSKYaI9J_mwDQ2R8pYLhsY1/view?usp=sharing">Meu Currículo (Nele contém os links dos vídeos de Projetos que fiz em    React-Native)</a>
+<div align="center" style="display: inline_block"><br>
+  <h2>Currículo</h2>
+  <a href="https://drive.google.com/file/d/1_4V1wKutgGSKYaI9J_mwDQ2R8pYLhsY1/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-brightgreen?style=for-the-badge&logo=QuickLook&logoColor=white"></a>
 
-  ![](https://komarev.com/ghpvc/?username=rodrigoelyel&color=blue&style=flat)
-  
+ 
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <h2>Redes Sociais</h2>
+  <a href="https://www.linkedin.com/in/rodrigo-elyel-048031220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/_rodrigoelyel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+   ![](https://komarev.com/ghpvc/?username=rodrigoelyel&color=blue&style=flat)
 </div>
