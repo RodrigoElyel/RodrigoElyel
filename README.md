@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá, me chamo Rodrigo Elyel e sou Dev Mobile. Seja bem-vindo ao meu GitHub!</h2>
+  <h2>Olá, me chamo Rodrigo Elyel e sou Dev Front-End, com preferência por mobile. Seja bem-vindo ao meu GitHub!</h2>
   <a href="https://github.com/rodrigoelyel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoelyel&show_icons=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoelyel&layout=compact&langs_count=8&theme=dark"/>
