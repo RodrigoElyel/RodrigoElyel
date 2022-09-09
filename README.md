@@ -36,7 +36,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <h2>Currículo</h2>
-  <a href="[https://drive.google.com/file/d/1_4V1wKutgGSKYaI9J_mwDQ2R8pYLhsY1/view?usp=sharing](https://drive.google.com/file/d/17wUAJ6RQ0K1T-PHeYJBRfkUHvsnd87yR/view?usp=sharing)"><img src="https://img.shields.io/badge/Currículo-brightgreen?style=for-the-badge&logo=QuickLook&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/17wUAJ6RQ0K1T-PHeYJBRfkUHvsnd87yR/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-brightgreen?style=for-the-badge&logo=QuickLook&logoColor=white"></a>
 
  
 </div>
