@@ -33,13 +33,13 @@
    <!-- <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /> -->
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br>
   <h2>Currículo</h2>
   <a href="https://drive.google.com/file/d/17wUAJ6RQ0K1T-PHeYJBRfkUHvsnd87yR/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-brightgreen?style=for-the-badge&logo=QuickLook&logoColor=white"></a>
 
  
 </div>
-
+-->
 <div align="center" style="display: inline_block"><br>
   <h2>Redes Sociais</h2>
   <a href="https://www.linkedin.com/in/rodrigo-elyel-048031220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
